@@ -1,0 +1,5 @@
+
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÇªØÑ
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÇªØÑ
+squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(’è«8Äð¦Ôú-
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8êº‰¨û-
